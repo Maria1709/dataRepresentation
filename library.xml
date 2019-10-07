@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+   <BOOK ISBN="0-12-345678-0" Price="£25">
+      <TITLE>Python for Data Analysis</TITLE>
+         <AUTHOR>
+            <FIRSTNAME>Wes</FIRSTNAME>
+            <LASTNAME>McGinley</LASTNAME>
+         </AUTHOR>
+         <AUTHOR>
+         </AUTHOR>
+   </BOOK>
+   <BOOK ISBN="0-12-456789-1" Price="£35">
+      <TITLE>Learning Python</TITLE>
+         <AUTHOR>
+            <FIRSTNAME>Mark</FIRSTNAME>
+            <LASTNAME>Lutz</LASTNAME>
+         </AUTHOR>
+      <REMARK>
+       This book is a gret deal and very informative.
+      </REMARK>
+   </BOOK>
+
+</l <BOOK ISBN="0-12-324354-0" Price="£15">
+      <TITLE>Cooking For Beginners</TITLE>
+         <AUTHOR>
+            <FIRSTNAME>Olivia</FIRSTNAME>
+            <LASTNAME>Mulberry</LASTNAME>
+         </AUTHOR>
+         <AUTHOR>
+         </AUTHOR>
+   </BOOK>
+   <BOOK ISBN="0-12-789654-1" Price="£45">
+      <TITLE>Asian Cuisine</TITLE>
+         <AUTHOR>
+            <FIRSTNAME>Jeffrey</FIRSTNAME>
+            <LASTNAME>Wang</LASTNAME>
+         </AUTHOR>
+      <REMARK>
+       Great book for beginners 
+      </REMARK>library> 
